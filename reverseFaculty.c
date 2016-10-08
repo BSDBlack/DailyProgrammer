@@ -2,7 +2,7 @@
  * reverseFaculty.c
  *
  *  Created on: Oct 8, 2016
- *      Author: bsdblack
+ *      Author: Sebastian Kreuzer
  */
 
 /*
